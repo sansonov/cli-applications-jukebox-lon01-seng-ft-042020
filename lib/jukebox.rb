@@ -5,9 +5,9 @@
 # puts "Enter your name:"
 # users_name = gets.strip
  
-# puts say_hello(users_name)
-
-require 'pry'
+#puts say_hello(users_name)
+#binding.pry
+#require 'pry'
 
 songs = [
   "Phoenix - 1901",
