@@ -4,10 +4,9 @@
  
 # puts "Enter your name:"
 # users_name = gets.strip
-<<<<<<< HEAD
+
 
 #puts say_hello(users_name)
-=======
  
 # puts say_hello(users_name)
 >>>>>>> 66b8fa1eb43d0295008dc94c6e1134852a4f9a89
